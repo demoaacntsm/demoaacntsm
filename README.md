@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a test repo for showing how to setup a GitHub profile.
+
 <!--
 **demoaacntsm/demoaacntsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
